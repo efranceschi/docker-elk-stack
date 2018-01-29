@@ -5,12 +5,12 @@ docker-elk-stack is an [ELK](https://www.elastic.co/webinars/introduction-elk-st
 ## Quick start
 
 1. Clone this repository
-```shell
+```
 git clone https://github.com/efranceschi/docker-elk-stack.git
 ```
 
 2. Enter directory
-```shell
+```
 cd docker-elk-stack
 ```
 
